@@ -1,0 +1,14 @@
+{
+  "name": "next-make-route",
+  "version": "1.0.0",
+  "description": "Easily do your routing in Next.js project",
+  "main": "app.js",
+  "scripts": {
+    "start": "start pakcage in next js"
+  },
+  "bin" : {
+    "hello": "./app.js"
+  },
+  "author": "samansayyar",
+  "license": "ISC"
+}
